@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/mrudeh_" target="blank"><img src="https://img.shields.io/twitter/follow/mrudeh_?logo=twitter&style=for-the-badge" alt="mrudeh_" /></a> </p>
 
-- 🔭 I’m currently working on [A Real Estate Webapp](https://fidco.netlify.app/)
+- 🔭 I’m currently working on [E-commerce project for one of the biggest company in Africa]
 
 - 🌱 I’m currently learning **Solidity & Ether JS**
 
-- 👨‍💻 All of my projects are available at [https://princewillnzube.com/](https://princewillnzube.com/)
+- 👨‍💻 All of my projects are available at [https://www.zubby.dev/](https://www.zubby.dev/)
 
 - 💬 Ask me about **anything Frontend Engineering**
 
 - 📫 How to reach me **princezubby2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jnRT0CrmJ_LNNmp8xzty0rVUrbYWQchq/view?usp=sharing](https://drive.google.com/file/d/1jnRT0CrmJ_LNNmp8xzty0rVUrbYWQchq/view?usp=sharing)
+- 📄 Know about my experiences [https://www.zubby.dev/resume.pdf](https://www.zubby.dev/resume.pdf)
 
 - ⚡ Fun fact **I love football and I'm funny**
 
