@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrudeh_" target="blank"><img src="https://img.shields.io/twitter/follow/mrudeh_?logo=twitter&style=for-the-badge" alt="mrudeh_" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce project for one of the biggest company in Africa]
+- 🔭 I’m currently working on [E-commerce project for one of the biggest companies in Africa]
 
 - 🌱 I’m currently learning **Solidity & Ether JS**
 
